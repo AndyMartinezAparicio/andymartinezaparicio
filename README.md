@@ -33,9 +33,11 @@
 ## 📊 Estadísticas:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andymartinezaparicio&theme=radical&title_color=8E2DE2&text_color=fff">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=andymartinezaparicio&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+  <img src="https://github-readme-stats.vercel.app/api?username=andymartinezaparicio&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&count_private=true">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andymartinezaparicio&theme=radical&title_color=8E2DE2&text_color=fff&langs_count=10&count_private=true">
+
 </div>
 
 
